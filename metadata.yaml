@@ -1,0 +1,27 @@
+_repo: In-the-Fog_7884
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davis, Richard Harding
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '181'
+    url: http://www.gutenberg.org/2009/agents/181
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Harding_Davis
+description: An American naval officer tells his friends about a crime that baffled
+  the London police.
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7884'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Mystery fiction'
+- GITenberg
+title: In the Fog
+url: http://www.gutenberg.org/ebooks/7884
